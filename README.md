@@ -1,4 +1,6 @@
-# Welcome to Trading Simulator Platform!
+# Hello World! Welcome Finance Learners
 
-## Important Links
-- [Auquan trading tutorials: basics to advanced](https://medium.com/auquan/tagged/trading-system)
+## Repo content
+- resorurces to learn financial basics
+- trading platform learning resources
+- quant interview resources
