@@ -1,4 +1,4 @@
-# Hello World! Welcome Finance Learners
+# Hello Finance Learners!
 
 ## Repo content
 - resources to learn finance basics
