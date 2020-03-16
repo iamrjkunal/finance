@@ -1,6 +1,6 @@
 # Hello Finance Learners!
 
-## Repo content:-
+## Repo content
 - resources to learn finance basics
 - hedge funds
 - trading platform learning resources
