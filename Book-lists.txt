@@ -1,0 +1,5 @@
+Effective C++ - Scott Meyers
+Linear Algebra - Gilbert Strang (multiple books)
+Pattern Recognition and Machine Learning - Christopher Bishop
+Elements of Statistical Learning - Springer Series
+Introductory Econometrics for Finance - Chris Brooks
