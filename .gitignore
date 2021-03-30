@@ -1,0 +1,4 @@
+**/*.DS_Store
+sftp-config.json
+**/__pycache__/
+**/*.h5
